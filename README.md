@@ -3,6 +3,7 @@ Portfólio DIN DIGITAL
 2015
 ---------
 - [FETQUIM](http://fetquim.org.br/)
+
 2014
 ---------
 - [Exponencial](http://www.exponencial.com.br/)
@@ -17,6 +18,7 @@ Portfólio DIN DIGITAL
 - [Estação Torto](http://estacaotorto.com/)
 - [Sindicato dos Químicos de SP](http://www.quimicosp.org.br/)
 - [Expansom](http://expansom.com.br/)
+
 2013
 ---------
 - [Partio](http://partio.org.br/)
@@ -27,6 +29,7 @@ Portfólio DIN DIGITAL
 - [Sindicato dos Químicos do ABC](http://quimicosabc.org.br/)
 - [APEOESP](http://www.apeoesp.org.br/)
 - [That`s Me](http://thatsme.com.br/atores/home/)
+
 2012
 ---------
 - [TAMTEX Coletes](http://tamtexcoletes.com.br/)
