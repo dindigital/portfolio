@@ -11,7 +11,7 @@ Portfólio DIN DIGITAL
 - [Articulação Sindical](http://artsind.com.br/)
 - [BeZoe](http://bezoe.zoefilms.com)
 - [Hospital Nipo Brasileiro](http://hospitalnipo.org.br/)
-- [Enkyo](http://enkyo.org.br/) | - [Enkyo Versão em Japonês](http://jp.enkyo.org.br/)
+- [Enkyo](http://enkyo.org.br/)
 - [Trino Construtora](http://trinoconstrutora.com.br/)
 - [Travel Club](http://travelclub.tur.br/)
 - [Hidrabell](http://hidrabell.com.br/)
@@ -29,8 +29,14 @@ Portfólio DIN DIGITAL
 - [Sindicato dos Químicos do ABC](http://quimicosabc.org.br/)
 - [APEOESP](http://www.apeoesp.org.br/)
 - [That`s Me](http://thatsme.com.br/atores/home/)
+- [Hospital Santa Cruz](http://www.hospitalsantacruz.com.br/)
+- [Zogbi Planejados](http://zogbiplanejados.com.br/)
+- [Camino Seguros](http://www.caminoseguros.com.br/)
 
 2012
 ---------
 - [TAMTEX Coletes](http://tamtexcoletes.com.br/)
 - [Destak Jornal](http://www.destakjornal.com.br/)
+- [Uni3](http://www.uni3vision.com.br/)
+- [TMX](http://www.tmx.com.br/)
+- [Cristiane Prado](http://www.cristianeprado.arq.br/)
