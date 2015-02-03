@@ -32,6 +32,7 @@ Portfólio DIN DIGITAL
 - [Hospital Santa Cruz](http://www.hospitalsantacruz.com.br/)
 - [Zogbi Planejados](http://zogbiplanejados.com.br/)
 - [Camino Seguros](http://www.caminoseguros.com.br/)
+- [TV ABCD](http://www.tvabcd.com.br/)
 
 2012
 ---------
