@@ -22,6 +22,7 @@ Portfólio DIN DIGITAL
 2013
 ---------
 - [Partio](http://partio.org.br/)
+- [TV ABCD](http://www.tvabcd.com.br/)
 - [Alkimia Gráfica](http://alkimiagrafica.com.br/)
 - [FNDC](http://fndc.org.br/)
 - [Veloflex Transportes](http://veloflextransportes.com.br)
@@ -32,7 +33,6 @@ Portfólio DIN DIGITAL
 - [Hospital Santa Cruz](http://www.hospitalsantacruz.com.br/)
 - [Zogbi Planejados](http://zogbiplanejados.com.br/)
 - [Camino Seguros](http://www.caminoseguros.com.br/)
-- [TV ABCD](http://www.tvabcd.com.br/)
 
 2012
 ---------
