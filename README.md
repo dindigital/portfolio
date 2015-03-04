@@ -2,6 +2,7 @@ Portfólio DIN DIGITAL
 =========
 2015
 ---------
+- [CNQ](http://cnq.org.br/)
 - [FETQUIM](http://fetquim.org.br/)
 
 2014
