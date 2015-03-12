@@ -2,6 +2,7 @@ Portfólio DIN DIGITAL
 =========
 2015
 ---------
+- [Chronic 420](http://chronic420.com.br/)
 - [CNQ](http://cnq.org.br/)
 - [FETQUIM](http://fetquim.org.br/)
 
