@@ -51,7 +51,7 @@ Portfólio DIN DIGITAL
 2014
 ---------
 - [Exponencial](http://www.exponencial.com.br/) [website]
-- [CUT - Central Única dos Trabalhadores](http://cut.org.br/)
+- [CUT - Central Única dos Trabalhadores](http://cut.org.br/) [website]
 - [Articulação Sindical](http://artsind.com.br/)
 - [BeZoe](http://bezoe.zoefilms.com)
 - [Hospital Nipo Brasileiro](http://hospitalnipo.org.br/) [website]
@@ -74,7 +74,7 @@ Portfólio DIN DIGITAL
 - [Sindicato dos Químicos do ABC](http://quimicosabc.org.br/)
 - [APEOESP](http://www.apeoesp.org.br/)
 - [That`s Me](http://thatsme.com.br/atores/home/)
-- [Hospital Santa Cruz](http://www.hospitalsantacruz.com.br/)
+- [Hospital Santa Cruz](http://www.hospitalsantacruz.com.br/) [website]
 - [Zogbi Planejados](http://zogbiplanejados.com.br/)
 - [Camino Seguros](http://www.caminoseguros.com.br/)
 
